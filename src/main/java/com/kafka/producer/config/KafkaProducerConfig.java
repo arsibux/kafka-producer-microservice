@@ -1,5 +1,6 @@
 package com.kafka.producer.config;
 
+import com.kafka.producer.request.MessageRequest;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.StringSerializer;
 import org.springframework.beans.factory.annotation.Value;

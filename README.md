@@ -8,5 +8,10 @@
 ## Installation
 
 1. Run command at code directory `git clone https://github.com/arsibux/kafka-producer-microservice.git`.
-2. Run `docker-compose up -d`  [docker-desktop installaton] (https://docs.docker.com/desktop/).
-3. Run `docker exec --interactive --tty kafka kafka-console-consumer --bootstrap-server localhost:9092 --topic MESSAGE-TOPIC --from-beginning`
+2. Open Project in [IntelliJ Idea](https://www.jetbrains.com/idea/download/).
+3. Run `mvn clean install`
+
+
+4. Run `docker-compose up -d`  [docker-desktop installaton](https://docs.docker.com/desktop/).
+5. Run in terminal `docker exec --interactive --tty kafka kafka-console-consumer --bootstrap-server localhost:9092 --topic MESSAGE-TOPIC --from-beginning`
+
