@@ -3,7 +3,7 @@
 
 [Apache Kafka](https://kafka.apache.org/) is an open-source distributed event streaming platform for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
 
-![kafka producer service](https://github.com/arsibux/kafka-producer-microservice/blob/main/draw_io/kafka-producer.png "kafka producer service")
+![kafka producer service](https://github.com/arsibux/kafka-producer-microservice/blob/main/draw_io/kafka-producer.drawio.png "kafka producer service")
 
 ## Installation
 
