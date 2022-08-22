@@ -8,7 +8,7 @@ import org.springframework.kafka.config.TopicBuilder;
 @Configuration
 public class KafaTopic {
     @Bean
-    public NewTopic messageTopic(){
+    public NewTopic messageTopic() {
         return TopicBuilder.name("MESSAGE-TOPIC").build();
     }
 }
