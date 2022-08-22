@@ -7,7 +7,7 @@
 
 ## Installation
 
-1. Run command at code directory `git clone https://github.com/arsibux/springboot-kafka-producer.git`.
+1. Run command at code directory `git clone https://github.com/arsibux/springboot-kafka-producer.git`
 2. Run `docker-compose up -d` [docker-desktop installaton](https://docs.docker.com/desktop/)
 3. Open Project in [IntelliJ Idea](https://www.jetbrains.com/idea/download/).
 4. Run `mvn clean install` and run `mvn spring-boot:run`
