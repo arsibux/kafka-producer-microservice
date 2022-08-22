@@ -23,3 +23,8 @@ You can the message here at terminal.
 
 ![postman-api-call](https://github.com/arsibux/kafka-producer-microservice/blob/main/docs/img/verify.png "postman-api-call")
 
+
+## Resources
+
+* [Spring Cloud Apache Kafka](https://spring.io/projects/spring-kafka#overview)
+* [Apache Kafka with Spring](https://www.baeldung.com/spring-kafka)
